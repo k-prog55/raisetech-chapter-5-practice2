@@ -2,6 +2,6 @@
 // Enter キーを押します。これでコードに空文字が表示されます。
 public class Main {
     public static void main(String[] args) {
-        System.out.println("hello");
+        System.out.println("hello revise");
     }
 }
